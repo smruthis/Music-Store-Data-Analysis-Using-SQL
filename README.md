@@ -11,4 +11,6 @@ This project uses SQL to analyze the dataset of an online music store. The goal 
 ![MusicDatabaseSchema](https://github.com/smruthis/Music-Store-Data-Analysis-Using-SQL/assets/91482474/8915b49c-203a-4f43-90c1-cfcb7f404395)
 
 
+The queries done are: https://github.com/smruthis/Music-Store-Data-Analysis-Using-SQL/blob/main/Questions%20and%20Answers
+
 
